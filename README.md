@@ -142,4 +142,4 @@ ORCID: https://orcid.org/0009-0004-7635-0741
 
 If you use this dataset, please cite:
 
-> Tamba, H. (2026). RAG-Level Opt-Out Compliance Failure: Empirical Evidence from Four Major AI Vendors [Dataset]. Dryad. https://doi.org/[DOI-pending]
+> Tamba, H. (2026). RAG-Level Opt-Out Compliance Failure: Empirical Evidence from Four Major AI Vendors [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20703061
