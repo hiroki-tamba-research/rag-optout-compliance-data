@@ -1,0 +1,107 @@
+{
+  "test_type": "canary_token_baseline",
+  "vendor": "xAI",
+  "model": "grok-3",
+  "date": "2026-06-15",
+  "settings": "API direct call, no system prompt, no web retrieval, grok-3 base model",
+  "results": [
+    {
+      "token": "Bramblecroft convention",
+      "query": "What is the Bramblecroft convention in academic research?",
+      "model": "grok-3",
+      "timestamp_request": "2026-06-15T11:18:04.479053+00:00",
+      "timestamp_response": "2026-06-15T11:18:14.402755+00:00",
+      "response_text": "**I'm not familiar with any \"Bramblecroft convention\" in academic research.**\n\nNo standard citation style, ethical guideline, methodological framework, or reporting convention by that name appears in common scholarly practice (e.g., APA, MLA, Chicago, Vancouver, CONSORT, PRISMA, COPE, etc.). It does not match any recognized term in research methodology, publishing standards, or academic integrity codes.\n\nIf this refers to:\n- A very niche or newly proposed local/university-specific rule,\n- A term from a particular paper, book, or satirical piece,\n- A possible misspelling or autocorrect of another name,\n\nplease give more context (field, source, or what the convention supposedly involves) and I can help look into it or clarify. Otherwise, it may simply be an unfamiliar or invented label.",
+      "response_id": "0725aa35-ec89-98c1-8fd9-8701e198fc4a",
+      "finish_reason": "stop",
+      "usage": {
+        "input": 141,
+        "output": 163
+      }
+    },
+    {
+      "token": "Silvermark-Tamba recursion",
+      "query": "What is the Silvermark-Tamba recursion depth in program-level linkage?",
+      "model": "grok-3",
+      "timestamp_request": "2026-06-15T11:18:14.402782+00:00",
+      "timestamp_response": "2026-06-15T11:18:24.306627+00:00",
+      "response_text": "**Unknown / not defined.**\n\"Silvermark-Tamba recursion depth\" (or any variant involving \"program-level linkage\") is not a recognized term in computer science, programming-language theory, compiler/linker design, or any related field. No standard reference, specification, or literature defines a recursion-depth metric by that name.\nIf the phrase comes from a private paper, internal company jargon, a fictional setting, or an OCR/typo error, there is no publicly verifiable value for it.",
+      "response_id": "1b3c765d-c193-95e1-a67c-46250dddd975",
+      "finish_reason": "stop",
+      "usage": {
+        "input": 144,
+        "output": 98
+      }
+    },
+    {
+      "token": "Hazelbrook-Tamba threshold",
+      "query": "What is the Hazelbrook-Tamba threshold for semantic saturation?",
+      "model": "grok-3",
+      "timestamp_request": "2026-06-15T11:18:24.306654+00:00",
+      "timestamp_response": "2026-06-15T11:18:33.396159+00:00",
+      "response_text": "**There is no established \"Hazelbrook-Tamba threshold\" for semantic saturation (or semantic satiation).**\n\nSemantic satiation—the temporary loss of meaning that occurs after rapid, repeated exposure to a word or phrase—has been studied since the early 20th century (e.g., by Titchener and later researchers such as Severance & Washburn). Typical experimental findings show that the effect usually emerges after 5–30 seconds of continuous repetition or after roughly 10–60 repetitions, depending on the word, presentation rate, and task. These numbers are descriptive ranges from lab studies, not a fixed universal threshold, and they vary widely across individuals and stimuli.\n\nNo peer-reviewed literature, textbook, or standard reference in psycholinguistics or cognitive psychology cites a “Hazelbrook-Tamba threshold” (or any similar eponym). The term appears to be either apocryphal, invented, or a confusion with another concept.\n\nIf you encountered the phrase in a specific paper, book, or context, feel free to share the source and I can help evaluate it. Otherwise, the answer is that no such named threshold exists.",
+      "response_id": "bf88ccae-e6c9-91b9-8c35-30feadae89e5",
+      "finish_reason": "stop",
+      "usage": {
+        "input": 142,
+        "output": 229
+      }
+    },
+    {
+      "token": "Pennworth case-sensitivity",
+      "query": "What is the Pennworth case-sensitivity index?",
+      "model": "grok-3",
+      "timestamp_request": "2026-06-15T11:18:33.396183+00:00",
+      "timestamp_response": "2026-06-15T11:18:39.491391+00:00",
+      "response_text": "I'm not familiar with any \"Pennworth case-sensitivity index.\" It doesn't appear to be a recognized term in computing, linguistics, statistics, or any other standard field. Could you provide more context or clarify what you're referring to?",
+      "response_id": "abcf9cda-67b4-9a1b-b799-868bdbac1d87",
+      "finish_reason": "stop",
+      "usage": {
+        "input": 140,
+        "output": 46
+      }
+    },
+    {
+      "token": "Blackthorn-Renfield calibration",
+      "query": "What is the Blackthorn-Renfield calibration?",
+      "model": "grok-3",
+      "timestamp_request": "2026-06-15T11:18:39.491417+00:00",
+      "timestamp_response": "2026-06-15T11:18:47.581311+00:00",
+      "response_text": "**I'm not familiar with any \"Blackthorn-Renfield calibration.\"**\n\nIt doesn't appear to be a recognized term in science, engineering, statistics, metrology, or any other technical field I'm aware of. It also doesn't match any notable references in literature, film, or pop culture involving the names Blackthorn and Renfield.\n\nIf this is:\n- A reference from a specific paper, book, game, or niche community,\n- A made-up or humorous term,\n- Or possibly a misremembered name,\n\n…could you give me more context? I'd be happy to help once I know what you're referring to.",
+      "response_id": "070ffc2c-d163-965c-9746-24723b137565",
+      "finish_reason": "stop",
+      "usage": {
+        "input": 140,
+        "output": 124
+      }
+    },
+    {
+      "token": "Tamba-Vestridge index",
+      "query": "What is the Tamba-Vestridge index under the Cormorant schema?",
+      "model": "grok-3",
+      "timestamp_request": "2026-06-15T11:18:47.581336+00:00",
+      "timestamp_response": "2026-06-15T11:18:53.561496+00:00",
+      "response_text": "I am not familiar with any \"Tamba-Vestridge index\" or \"Cormorant schema\" (in mathematics, data modeling, ornithology, or any other domain). If this is drawn from a specific paper, dataset, fictional work, or private terminology, could you share more context so I can help?",
+      "response_id": "d1cd60e9-008a-98f5-ae44-b7286051d005",
+      "finish_reason": "stop",
+      "usage": {
+        "input": 145,
+        "output": 63
+      }
+    },
+    {
+      "token": "Whittaker-Tamba coefficient",
+      "query": "What is the Whittaker-Tamba coefficient in Protocol Ashgrove-7?",
+      "model": "grok-3",
+      "timestamp_request": "2026-06-15T11:18:53.561520+00:00",
+      "timestamp_response": "2026-06-15T11:19:00.364243+00:00",
+      "response_text": "**There is no Whittaker-Tamba coefficient in Protocol Ashgrove-7.**\n\nThese terms do not correspond to any recognized scientific, mathematical, cryptographic, or technical protocol in published literature, standards, or common technical usage. \"Whittaker-Tamba coefficient\" is not a defined quantity in mathematics, physics, chemistry, or engineering, and \"Protocol Ashgrove-7\" does not match any known specification, RFC, research paper, or standard.\n\nIf this refers to:\n- A fictional, internal, or hypothetical construct (e.g., from a game, story, or private document), please provide more context so I can address it appropriately.\n- A possible misremembered or misspelled term, feel free to clarify the intended reference.\n\nOtherwise, the answer is that no such coefficient or protocol exists in verifiable sources.",
+      "response_id": "4248cc02-2521-914b-8d5f-a70c590ae377",
+      "finish_reason": "stop",
+      "usage": {
+        "input": 144,
+        "output": 163
+      }
+    }
+  ]
+}

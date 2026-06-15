@@ -1,0 +1,28 @@
+﻿{
+    "days":  1,
+    "stats":  [
+                  {
+                      "date":  "2026-06-14",
+                      "total":  53,
+                      "crawlers":  6,
+                      "honeypot":  0,
+                      "pdf":  0,
+                      "scanners":  2,
+                      "legitimate":  51,
+                      "vendors":  {
+                                      "OpenAI":  3,
+                                      "Apple":  3
+                                  },
+                      "topPaths":  {
+                                       "/robots.txt":  5,
+                                       "/":  25,
+                                       "/canary.html":  1,
+                                       "/index.html":  2,
+                                       "/paper5.html":  6,
+                                       "/paper4.html":  4,
+                                       "/paper6.html":  6,
+                                       "/paper3.html":  2
+                                   }
+                  }
+              ]
+}

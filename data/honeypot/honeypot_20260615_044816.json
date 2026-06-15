@@ -1,0 +1,82 @@
+﻿{
+    "days":  2,
+    "count":  4,
+    "entries":  [
+                    {
+                        "ts":  "2026-06-14T11:04:51.649Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+                        "ip_hash":  "9d4d1bdc663e0958",
+                        "country":  "CA",
+                        "asn":  9009,
+                        "asOrg":  "Ace Data Centers II, L.L.C.",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-13T00:19:06.611Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+                        "ip_hash":  "2dea4d11e0a417a9",
+                        "country":  "US",
+                        "asn":  396982,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-13T00:19:06.726Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+                        "ip_hash":  "2dea4d11e0a417a9",
+                        "country":  "US",
+                        "asn":  396982,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-13T14:41:47.568Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+                        "ip_hash":  "366dcbc2032cfcc4",
+                        "country":  "TR",
+                        "asn":  212238,
+                        "asOrg":  "Private Customer",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    }
+                ]
+}

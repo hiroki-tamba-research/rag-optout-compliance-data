@@ -1,0 +1,409 @@
+﻿{
+    "days":  7,
+    "count":  22,
+    "entries":  [
+                    {
+                        "ts":  "2026-06-13T00:19:06.611Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+                        "ip_hash":  "2dea4d11e0a417a9",
+                        "country":  "US",
+                        "asn":  396982,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-13T00:19:06.726Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+                        "ip_hash":  "2dea4d11e0a417a9",
+                        "country":  "US",
+                        "asn":  396982,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-13T14:41:47.568Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+                        "ip_hash":  "366dcbc2032cfcc4",
+                        "country":  "TR",
+                        "asn":  212238,
+                        "asOrg":  "Private Customer",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-12T08:41:04.175Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "ip_hash":  "eeecafff5759bf3a",
+                        "country":  "DE",
+                        "asn":  14061,
+                        "asOrg":  "DigitalOcean, LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-12T16:17:45.722Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+                        "ip_hash":  "991e4da86f3b69f3",
+                        "country":  "KR",
+                        "asn":  132203,
+                        "asOrg":  "16 COLLYER QUAY # 18-29 INCOME AT RAFFLES",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-12T16:40:03.356Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+                        "ip_hash":  "df47521908a912d9",
+                        "country":  "US",
+                        "asn":  132203,
+                        "asOrg":  "6 COLLYER QUAY",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-12T16:59:08.524Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+                        "ip_hash":  "d5709640d87efaf6",
+                        "country":  "DE",
+                        "asn":  132203,
+                        "asOrg":  "6 COLLYER QUAY",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:13:39.205Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                        "ip_hash":  "b0986dcb248a8575",
+                        "country":  "JP",
+                        "asn":  2527,
+                        "asOrg":  "So-net Service",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:27:34.090Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Mobile Safari/537.36 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "ee722badcabbfb40",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:27:34.116Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "769c506e57595ad0",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:30:30.257Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Mobile Safari/537.36 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "ee722badcabbfb40",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:30:30.259Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "c3fef4595f400635",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:31:00.289Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "c3fef4595f400635",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:31:00.291Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Mobile Safari/537.36 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "6a97d57692a2e411",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:32:31.455Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "6a97d57692a2e411",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:32:31.484Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Mobile Safari/537.36 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "d0477fdeabe40f4b",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:33:02.090Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "d0477fdeabe40f4b",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:33:02.120Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Mobile Safari/537.36 (compatible; Google-InspectionTool/1.0;)",
+                        "ip_hash":  "d0477fdeabe40f4b",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:34:14.611Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+                        "ip_hash":  "d0477fdeabe40f4b",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T09:35:43.202Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+                        "ip_hash":  "6a97d57692a2e411",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T15:34:04.805Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+                        "ip_hash":  "ddf318f3b7486621",
+                        "country":  "HR",
+                        "asn":  5391,
+                        "asOrg":  "Hrvatski Telekom d.d.",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    },
+                    {
+                        "ts":  "2026-06-11T15:34:11.102Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+                        "ip_hash":  "1aaf59b93b99ba33",
+                        "country":  "MX",
+                        "asn":  212238,
+                        "asOrg":  "GTT - EMEA Ltd.",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false
+                    }
+                ]
+}

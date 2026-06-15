@@ -1,0 +1,34 @@
+﻿{
+    "days":  1,
+    "stats":  [
+                  {
+                      "date":  "2026-06-14",
+                      "total":  94,
+                      "crawlers":  8,
+                      "honeypot":  0,
+                      "pdf":  0,
+                      "scanners":  5,
+                      "legitimate":  89,
+                      "vendors":  {
+                                      "OpenAI":  3,
+                                      "Apple":  3,
+                                      "Moz":  2
+                                  },
+                      "topPaths":  {
+                                       "/robots.txt":  8,
+                                       "/":  49,
+                                       "/canary.html":  1,
+                                       "/index.html":  2,
+                                       "/paper5.html":  7,
+                                       "/paper4.html":  4,
+                                       "/paper6.html":  11,
+                                       "/paper3.html":  2,
+                                       "//blog/robots.txt":  1,
+                                       "//blog/":  1,
+                                       "//wordpress/":  1,
+                                       "//wp/":  1,
+                                       "/ai-policy.html":  1
+                                   }
+                  }
+              ]
+}

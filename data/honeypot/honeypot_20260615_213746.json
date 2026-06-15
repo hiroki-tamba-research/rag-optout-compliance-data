@@ -1,0 +1,157 @@
+﻿{
+    "days":  1,
+    "count":  7,
+    "entries":  [
+                    {
+                        "ts":  "2026-06-15T06:57:33.319Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "ip_hash":  "002e4968dc603119",
+                        "country":  "NL",
+                        "asn":  48090,
+                        "asOrg":  "TECHOFF SRV LIMITED",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null,
+                                        "declared_purpose":  null,
+                                        "method":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-15T06:57:33.337Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "ip_hash":  "002e4968dc603119",
+                        "country":  "NL",
+                        "asn":  48090,
+                        "asOrg":  "TECHOFF SRV LIMITED",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null,
+                                        "declared_purpose":  null,
+                                        "method":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-15T06:57:33.361Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "ip_hash":  "002e4968dc603119",
+                        "country":  "NL",
+                        "asn":  48090,
+                        "asOrg":  "TECHOFF SRV LIMITED",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null,
+                                        "declared_purpose":  null,
+                                        "method":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-15T11:23:42.111Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+                        "ip_hash":  "7495f1b4722077e1",
+                        "country":  "US",
+                        "asn":  210906,
+                        "asOrg":  "SIA BITE Latvija",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null,
+                                        "declared_purpose":  null,
+                                        "method":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-15T11:23:44.574Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+                        "ip_hash":  "c3fef4595f400635",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  true,
+                                        "vendor":  "Google",
+                                        "token":  "Googlebot",
+                                        "declared_purpose":  "search",
+                                        "method":  "ua",
+                                        "rdns":  "crawl-66-249-74-76.googlebot.com",
+                                        "rdns_status":  "verified"
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-15T11:23:44.576Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+                        "ip_hash":  "d0477fdeabe40f4b",
+                        "country":  "US",
+                        "asn":  15169,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  true,
+                                        "vendor":  "Google",
+                                        "token":  "Googlebot",
+                                        "declared_purpose":  "search",
+                                        "method":  "ua",
+                                        "rdns":  "crawl-66-249-74-77.googlebot.com",
+                                        "rdns_status":  "verified"
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-15T11:23:54.554Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+                        "ip_hash":  "c34e3a2f83350a76",
+                        "country":  "US",
+                        "asn":  7979,
+                        "asOrg":  "Servers.com, Inc.",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null,
+                                        "declared_purpose":  null,
+                                        "method":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    }
+                ]
+}

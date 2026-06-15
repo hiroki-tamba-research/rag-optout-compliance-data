@@ -1,0 +1,48 @@
+{
+  "title": "RAG-Level Opt-Out Compliance Failure: Empirical Evidence from Four Major AI Vendors",
+  "description": "Empirical dataset demonstrating that all four major AI vendors (Google, OpenAI, Anthropic, xAI) fail to respect noai meta tags and W3C TDM Reservation Protocol signals at the RAG/inference level, despite correct crawler-level compliance. Includes crawl logs, honeypot data, canary token baselines, and session compliance tracking from a controlled experiment on tlimresearch.org (2026-06-11 through 2026-06-15).",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Tamba, Hiroki",
+      "orcid": "0009-0004-7635-0741",
+      "affiliation": "Tamba Research Academy"
+    }
+  ],
+  "license": "CC-BY-NC-ND-4.0",
+  "access_right": "open",
+  "keywords": [
+    "RAG",
+    "retrieval-augmented generation",
+    "opt-out compliance",
+    "noai",
+    "TDM reservation",
+    "robots.txt",
+    "web crawling",
+    "AI ethics",
+    "canary tokens",
+    "honeypot",
+    "Google",
+    "OpenAI",
+    "Anthropic",
+    "xAI"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20674090",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.20605168",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.20588539",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Data collected from tlimresearch.org, a controlled research site instrumented with opt-out signals and crawl tracking infrastructure. All IP addresses are SHA-256 hashed; no PII is present."
+}

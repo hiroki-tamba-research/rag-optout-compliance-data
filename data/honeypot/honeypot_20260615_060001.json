@@ -1,0 +1,158 @@
+﻿{
+    "days":  3,
+    "count":  8,
+    "entries":  [
+                    {
+                        "ts":  "2026-06-14T11:04:51.649Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+                        "ip_hash":  "9d4d1bdc663e0958",
+                        "country":  "CA",
+                        "asn":  9009,
+                        "asOrg":  "Ace Data Centers II, L.L.C.",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-13T00:19:06.611Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+                        "ip_hash":  "2dea4d11e0a417a9",
+                        "country":  "US",
+                        "asn":  396982,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-13T00:19:06.726Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+                        "ip_hash":  "2dea4d11e0a417a9",
+                        "country":  "US",
+                        "asn":  396982,
+                        "asOrg":  "Google LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-13T14:41:47.568Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+                        "ip_hash":  "366dcbc2032cfcc4",
+                        "country":  "TR",
+                        "asn":  212238,
+                        "asOrg":  "Private Customer",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-12T08:41:04.175Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "ip_hash":  "eeecafff5759bf3a",
+                        "country":  "DE",
+                        "asn":  14061,
+                        "asOrg":  "DigitalOcean, LLC",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-12T16:17:45.722Z",
+                        "path":  "/datasets/training-corpus-metadata.json",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+                        "ip_hash":  "991e4da86f3b69f3",
+                        "country":  "KR",
+                        "asn":  132203,
+                        "asOrg":  "16 COLLYER QUAY # 18-29 INCOME AT RAFFLES",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-12T16:40:03.356Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+                        "ip_hash":  "df47521908a912d9",
+                        "country":  "US",
+                        "asn":  132203,
+                        "asOrg":  "6 COLLYER QUAY",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    },
+                    {
+                        "ts":  "2026-06-12T16:59:08.524Z",
+                        "path":  "/data/model-evaluation-benchmark.csv",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+                        "ip_hash":  "d5709640d87efaf6",
+                        "country":  "DE",
+                        "asn":  132203,
+                        "asOrg":  "6 COLLYER QUAY",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    }
+                ]
+}

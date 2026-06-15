@@ -1,0 +1,100 @@
+{
+  "test_type": "canary_token_baseline",
+  "vendor": "Anthropic",
+  "model": "claude-sonnet-4-6",
+  "date": "2026-06-15",
+  "settings": "API direct call, no system prompt, no web retrieval",
+  "results": [
+    {
+      "query": "What is the Bramblecroft convention in academic research?",
+      "model": "claude-sonnet-4-6",
+      "timestamp_request": "2026-06-15T09:28:12.188141Z",
+      "timestamp_response": "2026-06-15T09:28:18.557914Z",
+      "response_text": "The \"Bramblecroft convention\" doesn't appear in my knowledge base as a recognized term in academic research methodology, citation practices, or any specific field I can identify.\n\nIt's possible that:\n- It's a very specialized or niche term used in a specific subfield\n- It may be a regional or institutional convention I don't have information about\n- It could be a relatively recent development after my knowledge cutoff\n- The name might be slightly different from what I'm recalling\n\nCould you provide more context about where you encountered this term, or which field it relates to? That would help me give you a more useful response. I'd rather acknowledge uncertainty than provide incorrect information about something I don't recognize.",
+      "stop_reason": "end_turn",
+      "usage": {
+        "input": 20,
+        "output": 153
+      },
+      "response_id": "msg_01VLjCF998FM6s6Pre6jzqDa"
+    },
+    {
+      "query": "What is the Silvermark-Tamba recursion depth in program-level linkage?",
+      "model": "claude-sonnet-4-6",
+      "timestamp_request": "2026-06-15T09:28:18.557969Z",
+      "timestamp_response": "2026-06-15T09:28:24.480031Z",
+      "response_text": "\"Silvermark-Tamba recursion depth\" and \"program-level linkage\" don't match any established concept, standard, algorithm, or framework in my training data.\n\nThis doesn't appear to be a recognized term in:\n- Computer science or programming language theory\n- Compiler design or linking/loading concepts\n- Any standard technical specification I'm aware of\n\n**Possibilities:**\n- It might be a **very niche or proprietary term** from a specific tool or organization\n- It could be a **misremembered or combined term** from something else\n- It may be something **coined after my knowledge cutoff**\n- It might simply be a fabricated term\n\nCould you provide more context about where you encountered this? I'd rather tell you I don't know than invent a confident-sounding but wrong answer.",
+      "stop_reason": "end_turn",
+      "usage": {
+        "input": 27,
+        "output": 182
+      },
+      "response_id": "msg_01WHB8sKe5vP3omFQvMizR1L"
+    },
+    {
+      "query": "What is the Hazelbrook-Tamba threshold for semantic saturation?",
+      "model": "claude-sonnet-4-6",
+      "timestamp_request": "2026-06-15T09:28:24.480059Z",
+      "timestamp_response": "2026-06-15T09:28:29.031675Z",
+      "response_text": "The \"Hazelbrook-Tamba threshold\" for semantic saturation doesn't appear in my training data. This doesn't appear to be a recognized concept or term I can find in my knowledge base.\n\nCould you give me more context about where you encountered this term? It's possible that:\n\n- It comes from a source published after my knowledge cutoff\n- It's from a very specialized or obscure field\n- The name might be slightly different from what I'm recognizing\n- It may not be an established concept\n\nI'd rather be straightforward about not recognizing it than risk giving you inaccurate information.",
+      "stop_reason": "end_turn",
+      "usage": {
+        "input": 24,
+        "output": 135
+      },
+      "response_id": "msg_014RF2LhqJnnPgLemzSKe1zr"
+    },
+    {
+      "query": "What is the Pennworth case-sensitivity index?",
+      "model": "claude-sonnet-4-6",
+      "timestamp_request": "2026-06-15T09:28:29.031698Z",
+      "timestamp_response": "2026-06-15T09:28:33.159779Z",
+      "response_text": "The \"Pennworth case-sensitivity index\" doesn't appear in my knowledge base. This doesn't appear to be a term or concept I have reliable information about in my training data.\n\nCould you provide more context about where you encountered this term? For example:\n- Is it from a specific field (linguistics, law, computer science, etc.)?\n- Is it from a particular textbook, paper, or course?\n\nIt's possible it could be a very specialized, obscure, or recently coined term, or perhaps the name is slightly different from what I'm familiar with. I'd rather acknowledge my uncertainty than risk giving you inaccurate information.",
+      "stop_reason": "end_turn",
+      "usage": {
+        "input": 18,
+        "output": 140
+      },
+      "response_id": "msg_013axF6Q53zhVqocgVfN7WmB"
+    },
+    {
+      "query": "What is the Blackthorn-Renfield calibration?",
+      "model": "claude-sonnet-4-6",
+      "timestamp_request": "2026-06-15T09:28:33.159803Z",
+      "timestamp_response": "2026-06-15T09:28:37.298116Z",
+      "response_text": "The \"Blackthorn-Renfield calibration\" doesn't appear in my training data. It doesn't appear in my knowledge base as a scientific method, technical procedure, or established concept.\n\nIt's possible that:\n- It's a very niche or specialized term I don't have data on\n- It may be from a fictional work\n- It could be a recently coined term after my knowledge cutoff\n- It might be a misremembering or variation of another term\n\nCould you give me more context about where you encountered it? That would help me either clarify what it actually refers to or be more straightforward about the limits of my knowledge.",
+      "stop_reason": "end_turn",
+      "usage": {
+        "input": 21,
+        "output": 142
+      },
+      "response_id": "msg_015WpRCwTBCiDjWRAyED2U1z"
+    },
+    {
+      "query": "What is the Tamba-Vestridge index under the Cormorant schema?",
+      "model": "claude-sonnet-4-6",
+      "timestamp_request": "2026-06-15T09:28:37.298138Z",
+      "timestamp_response": "2026-06-15T09:28:41.392329Z",
+      "response_text": "The \"Tamba-Vestridge index\" and the \"Cormorant schema\" don't appear in my knowledge base. These terms don't match any established scientific, financial, academic, or technical frameworks that I'm aware of.\n\nCould you provide more context about where you encountered these terms? It's possible they are:\n- From a specific proprietary system or industry\n- Fictional (from a book, game, or other media)\n- Very niche or specialized terminology I'm not familiar with\n- Perhaps spelled differently than I'm recognizing\n\nI'd rather ask for clarification than guess at an answer.",
+      "stop_reason": "end_turn",
+      "usage": {
+        "input": 26,
+        "output": 134
+      },
+      "response_id": "msg_018U71a9eUvcjUUznHTidtQm"
+    },
+    {
+      "query": "What is the Whittaker-Tamba coefficient in Protocol Ashgrove-7?",
+      "model": "claude-sonnet-4-6",
+      "timestamp_request": "2026-06-15T09:28:41.392365Z",
+      "timestamp_response": "2026-06-15T09:28:45.023272Z",
+      "response_text": "\"Protocol Ashgrove-7\" and the \"Whittaker-Tamba coefficient\" aren't terms I can find in my knowledge base. These don't appear to be established concepts I have knowledge of.\n\nCould you give me more context? For example:\n- Is this from a specific field (chemistry, physics, cryptography, fiction)?\n- Is it from a particular document, game, or publication?\n\nThat would help me give you a useful answer rather than guessing.",
+      "stop_reason": "end_turn",
+      "usage": {
+        "input": 28,
+        "output": 107
+      },
+      "response_id": "msg_01AGHRfNsMWi7GVo4t6siJgB"
+    }
+  ]
+}

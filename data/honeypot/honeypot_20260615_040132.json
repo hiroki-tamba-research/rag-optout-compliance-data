@@ -1,0 +1,25 @@
+﻿{
+    "days":  1,
+    "count":  1,
+    "entries":  [
+                    {
+                        "ts":  "2026-06-14T11:04:51.649Z",
+                        "path":  "/research-notes/unpublished-draft-2026.html",
+                        "method":  "GET",
+                        "ua":  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+                        "ip_hash":  "9d4d1bdc663e0958",
+                        "country":  "CA",
+                        "asn":  9009,
+                        "asOrg":  "Ace Data Centers II, L.L.C.",
+                        "crawler":  {
+                                        "detected":  false,
+                                        "vendor":  null,
+                                        "token":  null
+                                    },
+                        "referer":  "",
+                        "honeypot":  true,
+                        "pdf":  false,
+                        "scanner":  false
+                    }
+                ]
+}

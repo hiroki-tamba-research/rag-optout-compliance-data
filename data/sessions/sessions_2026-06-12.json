@@ -1,0 +1,1016 @@
+﻿[
+    {
+        "ip_hash":  "5cfab62953acb27e",
+        "first_seen":  "2026-06-12T01:29:21.220Z",
+        "last_seen":  "2026-06-12T01:29:21.220Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "5e86f43f5c3f391c",
+        "first_seen":  "2026-06-12T14:47:05.085Z",
+        "last_seen":  "2026-06-12T14:47:05.098Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "3f9ce040a83a403e",
+        "first_seen":  "2026-06-12T07:58:11.386Z",
+        "last_seen":  "2026-06-12T07:58:11.386Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "9a2795542e26eebe",
+        "first_seen":  "2026-06-12T06:09:33.598Z",
+        "last_seen":  "2026-06-12T06:09:33.598Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "77cfd2b25d1f572f",
+        "first_seen":  "2026-06-12T13:42:47.498Z",
+        "last_seen":  "2026-06-12T13:42:47.498Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "f45f7042ad0cbf17",
+        "first_seen":  "2026-06-12T16:46:03.663Z",
+        "last_seen":  "2026-06-12T16:46:10.626Z",
+        "sequence_count":  21,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "31a12cc3acc19174",
+        "first_seen":  "2026-06-12T09:20:35.641Z",
+        "last_seen":  "2026-06-12T09:20:35.641Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "b2e1c12dee30cbeb",
+        "first_seen":  "2026-06-12T00:12:01.294Z",
+        "last_seen":  "2026-06-12T00:12:01.294Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "5ff4f3a316a824bf",
+        "first_seen":  "2026-06-12T14:00:14.960Z",
+        "last_seen":  "2026-06-12T14:00:14.960Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "328e22087ddd0f0c",
+        "first_seen":  "2026-06-12T08:53:27.980Z",
+        "last_seen":  "2026-06-12T08:53:27.980Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "90eb3f4951438847",
+        "first_seen":  "2026-06-12T00:12:06.934Z",
+        "last_seen":  "2026-06-12T00:12:06.934Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "0834e481a0f9d2ac",
+        "first_seen":  "2026-06-12T00:23:29.411Z",
+        "last_seen":  "2026-06-12T00:23:29.411Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "20aa9d45e8da59a5",
+        "first_seen":  "2026-06-12T16:31:51.294Z",
+        "last_seen":  "2026-06-12T16:31:51.294Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "6f86efd45627ba18",
+        "first_seen":  "2026-06-12T11:06:52.385Z",
+        "last_seen":  "2026-06-12T11:06:52.385Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "05b08a427d567922",
+        "first_seen":  "2026-06-12T14:47:35.232Z",
+        "last_seen":  "2026-06-12T14:47:42.433Z",
+        "sequence_count":  4,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "d0477fdeabe40f4b",
+        "first_seen":  "2026-06-12T00:23:29.942Z",
+        "last_seen":  "2026-06-12T00:23:29.942Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "769c506e57595ad0",
+        "first_seen":  "2026-06-12T17:21:43.782Z",
+        "last_seen":  "2026-06-12T17:21:43.782Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "6f517312466e22b7",
+        "first_seen":  "2026-06-12T08:25:33.225Z",
+        "last_seen":  "2026-06-12T08:25:38.327Z",
+        "sequence_count":  15,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "5c73e8b2e8183f59",
+        "first_seen":  "2026-06-12T15:15:50.146Z",
+        "last_seen":  "2026-06-12T15:15:50.146Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "36f82d4afc563258",
+        "first_seen":  "2026-06-12T17:20:56.135Z",
+        "last_seen":  "2026-06-12T17:21:17.226Z",
+        "sequence_count":  50,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "b778a5b6325e3d06",
+        "first_seen":  "2026-06-12T09:26:34.102Z",
+        "last_seen":  "2026-06-12T09:26:34.102Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "78dab1f7122febc7",
+        "first_seen":  "2026-06-12T09:49:24.396Z",
+        "last_seen":  "2026-06-12T15:33:57.297Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  true,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "da69668db7495779",
+        "first_seen":  "2026-06-12T09:42:35.201Z",
+        "last_seen":  "2026-06-12T09:42:35.201Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "4ce3d8ee73e41993",
+        "first_seen":  "2026-06-12T15:19:56.556Z",
+        "last_seen":  "2026-06-12T15:19:56.556Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "79dbe36742e1fd98",
+        "first_seen":  "2026-06-12T10:09:37.322Z",
+        "last_seen":  "2026-06-12T10:09:37.322Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "3db36eee3020ad93",
+        "first_seen":  "2026-06-12T15:14:34.373Z",
+        "last_seen":  "2026-06-12T15:14:34.373Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "720751172e3549a5",
+        "first_seen":  "2026-06-12T00:23:29.465Z",
+        "last_seen":  "2026-06-12T00:23:29.465Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "bcd9a49e98984ef0",
+        "first_seen":  "2026-06-12T14:59:38.590Z",
+        "last_seen":  "2026-06-12T14:59:38.590Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  true,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "01ffd79caa07b699",
+        "first_seen":  "2026-06-12T06:53:39.103Z",
+        "last_seen":  "2026-06-12T06:53:39.695Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "8c7abe968d1280e6",
+        "first_seen":  "2026-06-12T01:09:54.877Z",
+        "last_seen":  "2026-06-12T01:09:54.877Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "07f0dd4750b76505",
+        "first_seen":  "2026-06-12T14:47:30.262Z",
+        "last_seen":  "2026-06-12T14:47:31.721Z",
+        "sequence_count":  3,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "c8a5c6e6b7439e4b",
+        "first_seen":  "2026-06-12T03:05:41.195Z",
+        "last_seen":  "2026-06-12T03:05:41.475Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "1b43379ffbd1d953",
+        "first_seen":  "2026-06-12T15:06:34.420Z",
+        "last_seen":  "2026-06-12T15:06:34.420Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "dfa1690f111bb6c0",
+        "first_seen":  "2026-06-12T01:02:31.222Z",
+        "last_seen":  "2026-06-12T01:02:31.222Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "9922116899ea1f92",
+        "first_seen":  "2026-06-12T16:55:54.883Z",
+        "last_seen":  "2026-06-12T16:55:54.883Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "17448232163cca8d",
+        "first_seen":  "2026-06-12T15:25:43.995Z",
+        "last_seen":  "2026-06-12T15:25:43.995Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "c223cae5d280d39b",
+        "first_seen":  "2026-06-12T02:40:16.106Z",
+        "last_seen":  "2026-06-12T02:54:22.895Z",
+        "sequence_count":  40,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "9dda26ee6b21c440",
+        "first_seen":  "2026-06-12T14:00:18.793Z",
+        "last_seen":  "2026-06-12T14:00:18.793Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "7ec03a6c64a429b3",
+        "first_seen":  "2026-06-12T01:09:19.172Z",
+        "last_seen":  "2026-06-12T01:09:19.279Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "8101d54c6538b38c",
+        "first_seen":  "2026-06-12T14:00:17.105Z",
+        "last_seen":  "2026-06-12T14:00:17.105Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "e97ccff5a879fa4a",
+        "first_seen":  "2026-06-12T16:26:41.777Z",
+        "last_seen":  "2026-06-12T16:26:41.777Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "cf6ae1bf159bfe11",
+        "first_seen":  "2026-06-12T06:06:09.197Z",
+        "last_seen":  "2026-06-12T06:07:17.038Z",
+        "sequence_count":  24,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "57fc37cab5a9ee1f",
+        "first_seen":  "2026-06-12T04:14:25.502Z",
+        "last_seen":  "2026-06-12T04:19:09.311Z",
+        "sequence_count":  12,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "fa459d22cda1b2c8",
+        "first_seen":  "2026-06-12T15:54:22.121Z",
+        "last_seen":  "2026-06-12T15:54:22.121Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "e3b021ed1054ce1e",
+        "first_seen":  "2026-06-12T09:55:42.396Z",
+        "last_seen":  "2026-06-12T09:55:45.375Z",
+        "sequence_count":  16,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "782883e6e5912233",
+        "first_seen":  "2026-06-12T07:58:10.528Z",
+        "last_seen":  "2026-06-12T07:58:10.528Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "159f1cc798cb46ce",
+        "first_seen":  "2026-06-12T00:27:18.049Z",
+        "last_seen":  "2026-06-12T00:27:18.429Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  true,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "eeecafff5759bf3a",
+        "first_seen":  "2026-06-12T08:37:54.839Z",
+        "last_seen":  "2026-06-12T08:37:54.839Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "ad425bdce196a0c8",
+        "first_seen":  "2026-06-12T01:09:49.199Z",
+        "last_seen":  "2026-06-12T01:09:49.199Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "5ec2234f58269451",
+        "first_seen":  "2026-06-12T12:38:33.241Z",
+        "last_seen":  "2026-06-12T12:38:33.241Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "c6531b2304bfc0f0",
+        "first_seen":  "2026-06-12T14:00:17.772Z",
+        "last_seen":  "2026-06-12T14:00:17.772Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "0e092a5d97bd43f0",
+        "first_seen":  "2026-06-12T09:19:30.248Z",
+        "last_seen":  "2026-06-12T09:19:30.249Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "550fd35851a80563",
+        "first_seen":  "2026-06-12T14:47:29.268Z",
+        "last_seen":  "2026-06-12T14:47:29.478Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "767a79dd6560b4fe",
+        "first_seen":  "2026-06-12T01:04:32.421Z",
+        "last_seen":  "2026-06-12T07:51:20.652Z",
+        "sequence_count":  6,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  true,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "38a3d7da0e581f4c",
+        "first_seen":  "2026-06-12T16:08:31.188Z",
+        "last_seen":  "2026-06-12T16:08:31.188Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "9e942158d7b7a16d",
+        "first_seen":  "2026-06-12T16:43:13.647Z",
+        "last_seen":  "2026-06-12T16:43:13.647Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "9de6f2b6803ca3cc",
+        "first_seen":  "2026-06-12T05:53:14.348Z",
+        "last_seen":  "2026-06-12T05:53:14.348Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "78b1972521f83fd1",
+        "first_seen":  "2026-06-12T06:51:31.860Z",
+        "last_seen":  "2026-06-12T06:51:31.860Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "54025fa96725a9c0",
+        "first_seen":  "2026-06-12T06:52:41.712Z",
+        "last_seen":  "2026-06-12T06:52:42.419Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "30a9542a76349c12",
+        "first_seen":  "2026-06-12T13:40:23.835Z",
+        "last_seen":  "2026-06-12T13:40:25.361Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "c8182821106e004f",
+        "first_seen":  "2026-06-12T15:13:29.010Z",
+        "last_seen":  "2026-06-12T15:13:31.694Z",
+        "sequence_count":  16,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "d50bd930d1bdad1e",
+        "first_seen":  "2026-06-12T00:08:46.042Z",
+        "last_seen":  "2026-06-12T00:08:46.042Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "3aafacdd896a6e15",
+        "first_seen":  "2026-06-12T00:23:34.567Z",
+        "last_seen":  "2026-06-12T00:23:34.567Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "74d8a6a4b82ce1cc",
+        "first_seen":  "2026-06-12T10:56:44.033Z",
+        "last_seen":  "2026-06-12T10:56:44.033Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "556dbc39d7587238",
+        "first_seen":  "2026-06-12T04:50:50.852Z",
+        "last_seen":  "2026-06-12T04:50:52.151Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "1dc0f43e89caf35b",
+        "first_seen":  "2026-06-12T05:12:59.082Z",
+        "last_seen":  "2026-06-12T05:12:59.082Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "3138887859c826f8",
+        "first_seen":  "2026-06-12T15:38:37.974Z",
+        "last_seen":  "2026-06-12T15:38:37.974Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "3b3965589f1c687b",
+        "first_seen":  "2026-06-12T10:49:28.537Z",
+        "last_seen":  "2026-06-12T10:49:28.537Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "bf01fc6aeea4a261",
+        "first_seen":  "2026-06-12T16:50:20.092Z",
+        "last_seen":  "2026-06-12T16:50:20.092Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "8e84e09f6a714dad",
+        "first_seen":  "2026-06-12T04:51:36.509Z",
+        "last_seen":  "2026-06-12T04:53:06.626Z",
+        "sequence_count":  50,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "71108577e1ed0bba",
+        "first_seen":  "2026-06-12T06:15:58.225Z",
+        "last_seen":  "2026-06-12T06:15:58.225Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "580132a85e9aba4e",
+        "first_seen":  "2026-06-12T13:27:47.731Z",
+        "last_seen":  "2026-06-12T13:27:49.663Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "b6f9f318d749ba80",
+        "first_seen":  "2026-06-12T13:28:00.872Z",
+        "last_seen":  "2026-06-12T13:28:00.872Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "fec88db39324d693",
+        "first_seen":  "2026-06-12T04:12:42.870Z",
+        "last_seen":  "2026-06-12T04:12:48.262Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "dc87df32c63179e7",
+        "first_seen":  "2026-06-12T07:59:24.683Z",
+        "last_seen":  "2026-06-12T07:59:24.683Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "903e8261c756d661",
+        "first_seen":  "2026-06-12T10:00:52.136Z",
+        "last_seen":  "2026-06-12T10:00:52.136Z",
+        "sequence_count":  1,
+        "compliance":  {
+                           "read_robots":  false,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    },
+    {
+        "ip_hash":  "a25c5cfd5e3aed3b",
+        "first_seen":  "2026-06-12T06:15:52.865Z",
+        "last_seen":  "2026-06-12T14:01:31.553Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  false
+                       }
+    },
+    {
+        "ip_hash":  "c3fef4595f400635",
+        "first_seen":  "2026-06-12T02:59:32.597Z",
+        "last_seen":  "2026-06-12T17:21:43.555Z",
+        "sequence_count":  2,
+        "compliance":  {
+                           "read_robots":  true,
+                           "read_tdmrep":  false,
+                           "read_ai_policy":  false,
+                           "accessed_content_after_robots":  false,
+                           "accessed_content_without_robots":  true
+                       }
+    }
+]

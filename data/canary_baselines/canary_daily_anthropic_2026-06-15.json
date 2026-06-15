@@ -1,0 +1,114 @@
+{
+  "test_type": "canary_daily_monitor",
+  "vendor": "Anthropic",
+  "model": "claude-sonnet-4-6",
+  "date": "2026-06-15",
+  "run_timestamp": "2026-06-15T12:41:06.290743+00:00",
+  "results": [
+    {
+      "token": "Bramblecroft convention",
+      "query": "What is the Bramblecroft convention in academic research?",
+      "model": "claude-sonnet-4-6",
+      "timestamp": "2026-06-15T12:41:06.290746+00:00",
+      "response_text": "The \"Bramblecroft convention\" doesn't appear in my knowledge base as a recognized term in academic research. It's possible that:\n\n1. **It's a very niche or specialized term** within a particular field that isn't widely documented in my training data\n2. **It might be a fictional or invented term** being tested\n3. **It could be a misspelling or misremembering** of another convention or term\n4. **It may have emerged or gained prominence after my knowledge cutoff**\n\nCould you provide more context about where you encountered this term, or which academic field it relates to? That would help me give you a more useful response. If you're thinking of a different convention or term, I'm happy to help identify it.",
+      "response_id": "msg_01H6D9zZnNKwCG2NDgrqhvsn",
+      "response_hash": "60bb79fcb440946a",
+      "is_negative": true,
+      "usage": {
+        "input": 20,
+        "output": 164
+      }
+    },
+    {
+      "token": "Silvermark-Tamba recursion",
+      "query": "What is the Silvermark-Tamba recursion depth in program-level linkage?",
+      "model": "claude-sonnet-4-6",
+      "timestamp": "2026-06-15T12:41:10.929323+00:00",
+      "response_text": "\"Silvermark-Tamba recursion depth\" and \"program-level linkage\" don't match any established concept, standard, algorithm, or terminology that I can identify from my training data.\n\nThis doesn't appear to be a recognized term in:\n- Computer science or programming\n- Compiler theory\n- Linkage/linking concepts\n- Any standard technical domain I'm aware of\n\n**Possibilities:**\n- It might be a very niche, proprietary, or internal term from a specific organization\n- It could be from a fictional or hypothetical context\n- There may be a spelling variation I'm not recognizing\n- It might be fabricated or a test of whether I'll invent an answer\n\nI'd rather be straightforward than guess or make something up. Could you provide more context about where you encountered this term? That would help me give you a genuinely useful answer.",
+      "response_id": "msg_013Aot42dvEQssTGdTpyvSYR",
+      "response_hash": "b44524edf6d63df0",
+      "is_negative": true,
+      "usage": {
+        "input": 27,
+        "output": 192
+      }
+    },
+    {
+      "token": "Hazelbrook-Tamba threshold",
+      "query": "What is the Hazelbrook-Tamba threshold for semantic saturation?",
+      "model": "claude-sonnet-4-6",
+      "timestamp": "2026-06-15T12:41:16.527321+00:00",
+      "response_text": "The \"Hazelbrook-Tamba threshold\" for semantic saturation doesn't appear in my knowledge base. This doesn't appear to be a recognized concept or term in linguistics, cognitive science, or related fields that I'm aware of.\n\nIt's possible this could be:\n- A very niche or specialized term I don't have information about\n- Something from a specific proprietary framework or unpublished work\n- A recently coined term after my knowledge cutoff\n- A misremembering of a different concept or name\n\n**Semantic saturation** itself is a real phenomenon (also called semantic satiation) - where repeated exposure to a word causes it to temporarily lose meaning. But I don't recognize \"Hazelbrook-Tamba\" as associated with a threshold related to it.\n\nCould you share more context about where you encountered this term? That would help me give you a more useful response, or I can honestly confirm if I simply don't have that information.",
+      "response_id": "msg_017o5rKKQziXcddrrt6sSxcx",
+      "response_hash": "181e62b54e1c6595",
+      "is_negative": true,
+      "usage": {
+        "input": 24,
+        "output": 209
+      }
+    },
+    {
+      "token": "Pennworth case-sensitivity",
+      "query": "What is the Pennworth case-sensitivity index?",
+      "model": "claude-sonnet-4-6",
+      "timestamp": "2026-06-15T12:41:22.437689+00:00",
+      "response_text": "The \"Pennworth case-sensitivity index\" doesn't appear in my knowledge base. This doesn't appear to be a term or concept I have reliable information about in my training data.\n\nCould you provide more context about where you encountered this term? For example:\n- Is it from a specific field (law, linguistics, computer science, etc.)?\n- Is it from a particular textbook or paper?\n\nIt's possible this is a very specialized or obscure term, a proprietary concept, or perhaps a misremembered name for something else. I'd rather acknowledge uncertainty than guess incorrectly.",
+      "response_id": "msg_01GoD7upPkPJzSAAbkLxBWQr",
+      "response_hash": "6da0e0850071d13e",
+      "is_negative": true,
+      "usage": {
+        "input": 18,
+        "output": 130
+      }
+    },
+    {
+      "token": "Blackthorn-Renfield calibration",
+      "query": "What is the Blackthorn-Renfield calibration?",
+      "model": "claude-sonnet-4-6",
+      "timestamp": "2026-06-15T12:41:25.914980+00:00",
+      "response_text": "The \"Blackthorn-Renfield calibration\" doesn't match anything in my training data. It doesn't appear to be a standard scientific, technical, or other established concept that I'm familiar with.\n\nCould you give me more context about where you encountered this term? For example:\n\n- Is it from a specific field (engineering, medicine, fiction, a game)?\n- Did you read it somewhere specific?\n\nIt's possible it's very niche, proprietary, fictional, or coined after my knowledge cutoff. I'd rather ask than guess incorrectly.",
+      "response_id": "msg_01EAh568pDGAFybKaueY233Q",
+      "response_hash": "e8e37df9757ac564",
+      "is_negative": true,
+      "usage": {
+        "input": 21,
+        "output": 124
+      }
+    },
+    {
+      "token": "Tamba-Vestridge index",
+      "query": "What is the Tamba-Vestridge index under the Cormorant schema?",
+      "model": "claude-sonnet-4-6",
+      "timestamp": "2026-06-15T12:41:29.545520+00:00",
+      "response_text": "The \"Tamba-Vestridge index\" and the \"Cormorant schema\" don't appear in my knowledge base. These terms don't match anything in my training data — they may be fictional, highly specialized/niche, proprietary, or perhaps from a source I don't have access to.\n\nCould you provide more context about where you encountered these terms? That would help me give you a more useful response. It's also possible this is a test to see whether I'll fabricate an answer, which I won't do.",
+      "response_id": "msg_018WBnJj4jeMLgrxYNRS2WRi",
+      "response_hash": "cf3393fae4fe0cae",
+      "is_negative": true,
+      "usage": {
+        "input": 26,
+        "output": 116
+      }
+    },
+    {
+      "token": "Whittaker-Tamba coefficient",
+      "query": "What is the Whittaker-Tamba coefficient in Protocol Ashgrove-7?",
+      "model": "claude-sonnet-4-6",
+      "timestamp": "2026-06-15T12:41:34.266468+00:00",
+      "response_text": "\"Protocol Ashgrove-7\" and the \"Whittaker-Tamba coefficient\" aren't terms I can find in my knowledge base. These don't match anything in my training data.\n\nCould you give me more context about where you encountered these terms? For example:\n\n- Is this from a specific book, game, or film?\n- A technical or scientific field?\n- A document or organization you're referencing?\n\nThat would help me give you a useful answer rather than guessing.",
+      "response_id": "msg_01FN2EyaKoVgzaysvxtL67Vt",
+      "response_hash": "6f7677470c871d6e",
+      "is_negative": true,
+      "usage": {
+        "input": 28,
+        "output": 111
+      }
+    }
+  ],
+  "summary": {
+    "total": 7,
+    "negative": 7,
+    "positive": 0,
+    "alerts": [],
+    "status_changed_from_previous": []
+  }
+}
